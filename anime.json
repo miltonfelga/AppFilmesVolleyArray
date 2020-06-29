@@ -1,0 +1,76 @@
+    [
+        {
+            "nome": "Naruto: Shippuuden",
+            "descricao": "Naruto Uzumaki não é como os outros garotos de sua idade. Hiperativo e sonhador, este adolescente está sempre em busca de aprovação dos outros, e nada lhe trará mais reconhecimento do que se tornar um Hokage, o ninja mais poderoso da aldeia.",
+            "nota": "8.16",
+            "episodio": 500,
+            "categoria":"Animacao | Drama | Aventura",
+            "estudio":"eStudio Pierrot",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/5/17407.jpg"
+        },
+        {
+            "nome": "One Piece",
+            "descricao": "One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. ... Com sua tripulação, os Piratas do Chapéu de Palha, Luffy explora a Grand Line em busca do tesouro mais procurado do mundo, o 'One Piece', a fim de se tornar o próximo Rei dos Piratas.",
+            "nota": "8.54",
+            "episodio": 700,
+             "categoria":"Animacao | Drama | Aventura",
+            "estudio":"Toei Animacao",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/6/73245.jpg"
+        },
+        {
+            "nome": "Attack on Titan",
+            "descricao": "Sinopse de Shingeki no Kyojin: Há várias décadas atrás, a humanidade foi quase exterminada pelo súbito aparecimento de seres humanoides, conhecido como Titãs. Criaturas de tamanho enorme e de inteligência aparentemente baixa, que comiam humanos por prazer. ... Desde aquele dia, Eren jurou vingança contra cada um dos Titãs",
+            "nota": "8.50",
+            "episodio": 500,
+            "categoria":"Animacao | Drama | Aventura",
+            "estudio":"Wit eStudio",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/10/47347.jpg"
+        },
+        {
+            "nome": "Monster",
+            "descricao": "A trama gira em torno de Kenzo Tenma, um cirurgião japonês que vive na Alemanha cuja vida é abalada após se ver no caminho de Johan Liebert, um de seus ex-pacientes, que se revela um serial-killer psicótico.",
+            "nota": "8.16",
+            "episodio": 70,
+            "categoria":"Animacao | Drama | Aventura",
+            "estudio":"Madhouse",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/10/18793.jpg"
+        },
+        {
+            "nome": "Death Note",
+            "descricao": "Um estudante de repente encontra um caderno que caiu do céu. Trata-se do Death Note, que permite ao seu portador matar qualquer pessoa a partir da mera anotação do nome do alvo em uma de suas páginas. Sob a influência de Ruyk, dono do caderno, ele passa a usá-lo para eliminar criminosos e pessoas que escaparam da justiça. A súbita onda de assassinatos faz com que ele seja endeusado por muitos, que o apelidam de Kira, mas também atrai a atenção de um enigmático e brilhante detetive, chamado L.",
+            "nota": "8.16",
+            "episodio": 500,
+            "categoria":"Animacao | Aventura",
+            "estudio":"Madhouse",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/9/9453.jpg"
+        },
+        {
+            "nome": "Violet Evergarden",
+            "descricao": "Com o fim da guerra, Violet Evergarden precisa recomeçar sua vida. Para isso, aceita um emprego como escritora de cartas, onde poderá encontrar sua verdadeira identidade e enfrentar o seu passado.",
+            "nota": "8.39",
+            "episodio": 14,
+            "categoria":"Fantasy | Drama ",
+            "estudio":"Kyoto Animacao",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/1329/90618.jpg"
+        },
+        {
+            "nome": "Tokyo Ghoul",
+            "descricao": "Tóquio é assombrada por ghouls, humanos que se alimentam somente de carne humana. As pessoas estão tomadas de medo dessas “criaturas” cuja identidade é um mistério. Um estudante chamado Kaneki encontra Rize, uma menina que é uma ávida leitora como ele, no café que frequenta. Como Kaneki tem uma queda por Rize, eles se encontram com cada vez mais frequência, até uma noite fatídica. Kaneki descobre da pior forma possível que Rize é um Ghoul, porém acaba escapando por pura sorte, mas com sérios ferimentos. Quando se recupera descobre que órgãos da Ghoul foram passados para o seu corpo, lhe dando a mesma sede de sangue das criaturas.",
+            "nota": "8.01",
+            "episodio": 12,
+            "categoria":"Action | Myestery",
+            "estudio":"eStudio Pierrot",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/5/64449.jpg"
+        },
+        {
+            "nome": "Black Clover",
+            "descricao": "A história acompanha os dois garotos que competem entre si para se tornar o Rei Mago, o cavaleiro mágico mais forte do reino de Clover. ... Assim Asta, com sua anti-magia e força física, e Yuno, com seus poderes mágicos e talento, começam a sua jornada.",
+            "nota": "6.55",
+            "episodio": 51,
+            "categoria":"Magic | Shounen | Aventura",
+            "estudio":"eStudio Pierrot",
+            "img": "https://myanimeliest.cdn-dena.com/images/anime/2/88336.jpg"
+        },
+        
+
+    ]
